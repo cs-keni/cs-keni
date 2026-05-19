@@ -49,8 +49,3 @@
 | 🔒 | [**MemLock**](https://github.com/cs-keni/memlock) | Static security analysis CLI for C — AST-driven, 8 vulnerability categories, CI-ready |
 | 💣 | [**Minesweeper**](https://github.com/cs-keni/minesweeper-for-me) | Minesweeper with real-time probability analysis and full keyboard control |
 
----
-
-<p align="center">
-  <a href="https://keni.codes">keni.codes</a>
-</p>
